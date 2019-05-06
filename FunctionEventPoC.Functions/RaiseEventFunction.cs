@@ -24,12 +24,12 @@ namespace FunctionEventPoC.Functions
         {
             //mediator.Publish(new SomethingHappenedEvent(DateTime.UtcNow));
 
-            //Task.Factory.StartNew(DoJob);
+            Task.Factory.StartNew(DoJob, TaskCreationOptions.DenyChildAttach);
 
-            Task.Factory.StartNew(() =>
-            {
-                mediator.Publish(new SomethingHappenedEvent(DateTime.UtcNow));
-            });
+            //Task.Factory.StartNew(() =>
+            //{
+            //    mediator.Publish(new SomethingHappenedEvent(DateTime.UtcNow));
+            //});
 
             await Task.CompletedTask;
 

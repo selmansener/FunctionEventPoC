@@ -1,0 +1,14 @@
+C:\Playground\FunctionEventPoC\FunctionEventPoC.API\bin\Debug\netcoreapp2.1\FunctionEventPoC.API.deps.json
+C:\Playground\FunctionEventPoC\FunctionEventPoC.API\bin\Debug\netcoreapp2.1\FunctionEventPoC.API.runtimeconfig.json
+C:\Playground\FunctionEventPoC\FunctionEventPoC.API\bin\Debug\netcoreapp2.1\FunctionEventPoC.API.runtimeconfig.dev.json
+C:\Playground\FunctionEventPoC\FunctionEventPoC.API\bin\Debug\netcoreapp2.1\FunctionEventPoC.API.dll
+C:\Playground\FunctionEventPoC\FunctionEventPoC.API\bin\Debug\netcoreapp2.1\FunctionEventPoC.API.pdb
+C:\Playground\FunctionEventPoC\FunctionEventPoC.API\obj\Debug\netcoreapp2.1\FunctionEventPoC.API.csprojAssemblyReference.cache
+C:\Playground\FunctionEventPoC\FunctionEventPoC.API\obj\Debug\netcoreapp2.1\FunctionEventPoC.API.csproj.CoreCompileInputs.cache
+C:\Playground\FunctionEventPoC\FunctionEventPoC.API\obj\Debug\netcoreapp2.1\FunctionEventPoC.API.RazorAssemblyInfo.cache
+C:\Playground\FunctionEventPoC\FunctionEventPoC.API\obj\Debug\netcoreapp2.1\FunctionEventPoC.API.RazorAssemblyInfo.cs
+C:\Playground\FunctionEventPoC\FunctionEventPoC.API\obj\Debug\netcoreapp2.1\FunctionEventPoC.API.AssemblyInfoInputs.cache
+C:\Playground\FunctionEventPoC\FunctionEventPoC.API\obj\Debug\netcoreapp2.1\FunctionEventPoC.API.AssemblyInfo.cs
+C:\Playground\FunctionEventPoC\FunctionEventPoC.API\obj\Debug\netcoreapp2.1\FunctionEventPoC.API.RazorTargetAssemblyInfo.cache
+C:\Playground\FunctionEventPoC\FunctionEventPoC.API\obj\Debug\netcoreapp2.1\FunctionEventPoC.API.dll
+C:\Playground\FunctionEventPoC\FunctionEventPoC.API\obj\Debug\netcoreapp2.1\FunctionEventPoC.API.pdb

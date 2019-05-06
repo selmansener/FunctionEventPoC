@@ -1,0 +1,11 @@
+C:\Playground\FunctionEventPoC\FunctionEventPoC.App\bin\Debug\netcoreapp2.1\FunctionEventPoC.App.deps.json
+C:\Playground\FunctionEventPoC\FunctionEventPoC.App\bin\Debug\netcoreapp2.1\FunctionEventPoC.App.runtimeconfig.json
+C:\Playground\FunctionEventPoC\FunctionEventPoC.App\bin\Debug\netcoreapp2.1\FunctionEventPoC.App.runtimeconfig.dev.json
+C:\Playground\FunctionEventPoC\FunctionEventPoC.App\bin\Debug\netcoreapp2.1\FunctionEventPoC.App.dll
+C:\Playground\FunctionEventPoC\FunctionEventPoC.App\bin\Debug\netcoreapp2.1\FunctionEventPoC.App.pdb
+C:\Playground\FunctionEventPoC\FunctionEventPoC.App\obj\Debug\netcoreapp2.1\FunctionEventPoC.App.csprojAssemblyReference.cache
+C:\Playground\FunctionEventPoC\FunctionEventPoC.App\obj\Debug\netcoreapp2.1\FunctionEventPoC.App.csproj.CoreCompileInputs.cache
+C:\Playground\FunctionEventPoC\FunctionEventPoC.App\obj\Debug\netcoreapp2.1\FunctionEventPoC.App.AssemblyInfoInputs.cache
+C:\Playground\FunctionEventPoC\FunctionEventPoC.App\obj\Debug\netcoreapp2.1\FunctionEventPoC.App.AssemblyInfo.cs
+C:\Playground\FunctionEventPoC\FunctionEventPoC.App\obj\Debug\netcoreapp2.1\FunctionEventPoC.App.dll
+C:\Playground\FunctionEventPoC\FunctionEventPoC.App\obj\Debug\netcoreapp2.1\FunctionEventPoC.App.pdb
